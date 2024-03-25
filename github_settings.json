@@ -1,0 +1,26 @@
+{
+    "storeAddressModel": {
+        "address": {
+            "line1": "850 Woodside Rd",
+            "city": "Redwood City",
+            "state": "CA",
+            "country": "US",
+            "zipcode": "94061"
+        },
+        "localPage": "https://local.safeway.com/safeway/ca/redwood-city/850-woodside-rd.html",
+        "bannerId": "1",
+        "storeRewards": {
+            "storeId": "747",
+            "hasGroceryDelivery": true,
+            "hasDUG": true,
+            "hasRushDelivery": false,
+            "hasGroceryRewards": true,
+            "gasRewardsId": "251",
+            "rewardsProgramId": "5-251",
+            "storeLogoName": "safeway_logo",
+            "storeLogoURL": "https://images.albertsons-media.com/is/image/ABS/safeway_logo",
+            "storeName": "Safeway",
+            "polarisBannerName": "safeway"
+        }
+    }
+}
